@@ -1,4 +1,11 @@
-pooh's Advent of Code Repository
+This project was generated with [Amplication](https://amplication.com)
 
-This is a repository containing solutions for the 2021 Advent of Code
-(https://adventofcode.com/).
+It consists of two packages:
+
+### [Server](./server/README.md)
+
+### [Admin UI](./admin-ui/README.md)
+
+### Learn more
+
+You can learn more in the [Amplication documentation](https://docs.amplication.com/guides/getting-started).

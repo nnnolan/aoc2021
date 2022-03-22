@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "My app",
+    "description": "",
+    "version": "dji972pb",
+    "id": "cl11iqjro34787801s65s3jwa1k",
+    "url": "https://app.amplication.com/cl11iqjro34787801s65s3jwa1k",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl11iqjro34787801s65s3jwa1k",
+      "authProvider": "Jwt"
+    }
+  }
+}
